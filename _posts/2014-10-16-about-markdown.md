@@ -17,12 +17,15 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 
 ### Headers
 
+'''markdown
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
+'''
 
 ### Emphasis
 
+'''markdown
 *This text will be italic*
 _This will also be italic_
 
@@ -30,6 +33,7 @@ _This will also be italic_
 __This will also be bold__
 
 *You **can** combine them*
+'''
 
 ### Lists
 
@@ -51,13 +55,17 @@ __This will also be bold__
 ### Images
 
 ![Screenshot](/screenshot.png)
-Format: ![Alt Text](url)
+
+### Format: 
+
+![Alt Text](url)
 
 ### Links
 
 http://github.com - automatic!
 [GitHub](http://github.com)
-Blockquotes
+
+### Blockquotes
 
 As Kanye West said:
 
